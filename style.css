@@ -1,0 +1,15 @@
+.h1{
+    color: darkred; font-size: 50px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.h2{
+    color: goldenrod; font-size: 40px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pn{
+    color: black; font-size: 25px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ct{
+    color: goldenrod; font-size: 25px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hl{
+    font-size: 35px; text-decoration: none; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
